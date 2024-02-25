@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\srini\\source\\repos\\StudentDetailsBackend\\StudentDetailsBackend\\StudentDetailsBackend.csproj": {}
+    "C:\\Users\\srini\\source\\repos\\StudentDetailApi\\StudentDetailsBackend\\StudentDetailsBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\srini\\source\\repos\\StudentDetailsBackend\\StudentDetailsBackend\\StudentDetailsBackend.csproj": {
+    "C:\\Users\\srini\\source\\repos\\StudentDetailApi\\StudentDetailsBackend\\StudentDetailsBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srini\\source\\repos\\StudentDetailsBackend\\StudentDetailsBackend\\StudentDetailsBackend.csproj",
+        "projectUniqueName": "C:\\Users\\srini\\source\\repos\\StudentDetailApi\\StudentDetailsBackend\\StudentDetailsBackend.csproj",
         "projectName": "StudentDetailsBackend",
-        "projectPath": "C:\\Users\\srini\\source\\repos\\StudentDetailsBackend\\StudentDetailsBackend\\StudentDetailsBackend.csproj",
+        "projectPath": "C:\\Users\\srini\\source\\repos\\StudentDetailApi\\StudentDetailsBackend\\StudentDetailsBackend.csproj",
         "packagesPath": "C:\\Users\\srini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srini\\source\\repos\\StudentDetailsBackend\\StudentDetailsBackend\\obj\\",
+        "outputPath": "C:\\Users\\srini\\source\\repos\\StudentDetailApi\\StudentDetailsBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\srini\\AppData\\Roaming\\NuGet\\NuGet.Config",

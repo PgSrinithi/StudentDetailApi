@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kBI9V9LDOINWsRSU/2k0MnZhLK2Q48LIDEciz/+9+7FgnpMNehFWBj1WhZMnMaGzQG0Av6XHdQ1RXmP1w83/TA==",
+  "dgSpecHash": "10/zwAMIPeGB0bAYSVdgYiJmIsqHsv2mcrhrVKpupwhRpihAZUWhfaHgTu5VdvYMLDyq1oXZ5aeZzo4xMe3+vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\srini\\source\\repos\\StudentDetailsBackend\\StudentDetailsBackend\\StudentDetailsBackend.csproj",
+  "projectFilePath": "C:\\Users\\srini\\source\\repos\\StudentDetailApi\\StudentDetailsBackend\\StudentDetailsBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srini\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\srini\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
